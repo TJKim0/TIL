@@ -3,6 +3,6 @@
 ***
 ## [Markdown](#)
 
-## [Algorithms]
+## [Algorithms](#)
 
-## [Data Structures]
+## [Data Structures](#)
