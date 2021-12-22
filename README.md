@@ -9,4 +9,4 @@
 
 ## [Python](#)
 
-## [AI](#)
+## [AI](https://github.com/TJKim0/TIL/tree/main/AI)
