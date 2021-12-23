@@ -2,11 +2,12 @@
 * Recording what I learned today.
 ***
 
-## [Algorithms](#)
-
+## [Algorithms](https://github.com/TJKim0/TIL/tree/main/Algorithms)
+* Questions from [HackerRank](https://www.hackerrank.com/).
 ## [Data Structures](https://github.com/TJKim0/TIL/tree/main/Data%20Structures)
-* [HackerRank](https://www.hackerrank.com/) 에서 푼 문제들.
+* Questions from [HackerRank](https://www.hackerrank.com/).
 
 ## [Python](#)
-
+* Questions from [HackerRank](https://www.hackerrank.com/).
 ## [AI](https://github.com/TJKim0/TIL/tree/main/AI)
+* AI stuffs I've been learning since 21/12/2021.
