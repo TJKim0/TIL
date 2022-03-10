@@ -1,0 +1,9 @@
+- [ ]  Gradient Descent란?
+- [ ]  Loss Surface란?
+- [ ]  Attention이란?
+- [ ]  Transformer란?
+- [ ]  Collaborative filtering이란?
+- [ ]  Few-Shot Learning이란?
+- [ ]  Federated Learning이란?
+- [ ]  SVD란?
+- [ ]  중심극한정리란?
